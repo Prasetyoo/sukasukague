@@ -1,0 +1,2 @@
+# sukasukague
+static web page
